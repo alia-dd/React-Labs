@@ -1,0 +1,91 @@
+.page{
+    padding: 0%;
+    margin: 0%;
+}
+.headd{
+    background-color: green;
+    height:45vh;
+    width: 98vw;
+    display: flex;
+    position: relative;
+    float: top;
+    border-radius: 10px;
+}
+.hd{
+    
+    color:white;
+    margin: 1rem 0 0 37rem;
+    display: flex;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.underline{
+    width: 90vw;
+    height: 3px;
+    background-color: yellow;
+    margin: 1rem 0 0 3rem;
+
+}
+.lu{
+    margin-top: 2rem;
+    padding: 0;
+    list-style: none;
+    text-align: left;
+    display: block;
+    float: left;
+    
+}
+.list{
+    width: 13vw;
+   
+    display: block;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: block;
+    margin: 0.2rem 0 0 0.3rem;
+    padding: 0.5rem 0 0 1rem;
+    height: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.list a{
+    color: aliceblue;
+    text-decoration: none;
+}
+.list a:active {
+    color: yellowgreen;
+}
+
+.list a:hover {
+    color: yellow;
+}
+
+.midl{
+    height: 75vh;
+    
+}
+.midlh{
+    text-align: center;
+    font-size: 25px;
+    color: green;
+    margin: 10rem 0 0 0; 
+    font-family: Arial, Helvetica, sans-serif;   
+    
+}
+.lop{
+    background-color: rgb(39, 46, 63);
+    height:55vh;
+    width: 98vw;
+    display: flex;
+    position: relative;
+    float: bottom;
+    border-radius: 10px;
+}
+.btmpr{
+    text-align: center;
+    font-size: 5px;
+    margin: 1rem 0 0 30rem;
+    flex-wrap: wrap;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
